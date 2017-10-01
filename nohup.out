@@ -1,0 +1,2259 @@
+Your app is listening on port 42291
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:5701) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): TypeError: Cannot read property 'playerid' of undefined
+(node:5701) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+Identified movie = {"kind":"youtube#video","videoId":"Jn6-TItCazo"}
+Identified movieid = Jn6-TItCazo
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=Jn6-TItCazo
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=Jn6-TItCazo"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":0,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 0, type: 'video' } ] }
+0
+Found active player = 0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":0}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":0,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 0, type: 'video' } ] }
+0
+Found active player = 0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":0}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":1}}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:5701) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 2): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"Jn6-TItCazo"}
+Identified movieid = Jn6-TItCazo
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=Jn6-TItCazo
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=Jn6-TItCazo"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Your app is listening on port 42291
+Your app is listening on port 42291
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:8165) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): TypeError: Cannot read property 'playerid' of undefined
+(node:8165) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+Identified movie = {"kind":"youtube#video","videoId":"Jn6-TItCazo"}
+Identified movieid = Jn6-TItCazo
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=Jn6-TItCazo
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=Jn6-TItCazo"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Your app is listening on port 42291
+Your app is listening on port 42291
+Your app is listening on port 42291
+Your app is listening on port 42291
+Your app is listening on port 42291
+Your app is listening on port 42291
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): TypeError: Cannot read property 'playerid' of undefined
+(node:9940) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+Identified movie = {"kind":"youtube#video","videoId":"Jn6-TItCazo"}
+Identified movieid = Jn6-TItCazo
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=Jn6-TItCazo
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=Jn6-TItCazo"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":1}}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 2): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"9k88fTGijLM"}
+Identified movieid = 9k88fTGijLM
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=9k88fTGijLM
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=9k88fTGijLM"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 3): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"T9qybpUuYAQ"}
+Identified movieid = T9qybpUuYAQ
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=T9qybpUuYAQ
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=T9qybpUuYAQ"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":0,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 0, type: 'video' } ] }
+0
+Found active player = 0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":0}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":0,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 0, type: 'video' } ] }
+0
+Found active player = 0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":0}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 4): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"qCpRAoU5jTE"}
+Identified movieid = qCpRAoU5jTE
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=qCpRAoU5jTE
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=qCpRAoU5jTE"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 5): TypeError: Cannot read property 'playerid' of undefined
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 6): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"Jn6-TItCazo"}
+Identified movieid = Jn6-TItCazo
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=Jn6-TItCazo
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=Jn6-TItCazo"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 7): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"65QCHZDXKmA"}
+Identified movieid = 65QCHZDXKmA
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=65QCHZDXKmA
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=65QCHZDXKmA"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":0,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 0, type: 'video' } ] }
+0
+Found active player = 0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":0}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 8): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"iQFtwBRb6n0"}
+Identified movieid = iQFtwBRb6n0
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=iQFtwBRb6n0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=iQFtwBRb6n0"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 9): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"T9qybpUuYAQ"}
+Identified movieid = T9qybpUuYAQ
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=T9qybpUuYAQ
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=T9qybpUuYAQ"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 10): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"S-cbOl96RFM"}
+Identified movieid = S-cbOl96RFM
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=S-cbOl96RFM
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=S-cbOl96RFM"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 11): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"NDH1bGnNMjw"}
+Identified movieid = NDH1bGnNMjw
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=NDH1bGnNMjw
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=NDH1bGnNMjw"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":0,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 0, type: 'video' } ] }
+0
+Found active player = 0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":0}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 12): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"9k88fTGijLM"}
+Identified movieid = 9k88fTGijLM
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=9k88fTGijLM
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=9k88fTGijLM"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":1}}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 13): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"xZiquXYiYq0"}
+Identified movieid = xZiquXYiYq0
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=xZiquXYiYq0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=xZiquXYiYq0"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":0,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 0, type: 'video' } ] }
+0
+Found active player = 0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":0}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 14): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"2DzKHHyRBhg"}
+Identified movieid = 2DzKHHyRBhg
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=2DzKHHyRBhg
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=2DzKHHyRBhg"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":1}}
+Identified movie = {"kind":"youtube#video","videoId":"JptwkEhdNfY"}
+Identified movieid = JptwkEhdNfY
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=JptwkEhdNfY
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=JptwkEhdNfY"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 15): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"TyKzJM5DmbY"}
+Identified movieid = TyKzJM5DmbY
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=TyKzJM5DmbY
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=TyKzJM5DmbY"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 16): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"TyKzJM5DmbY"}
+Identified movieid = TyKzJM5DmbY
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=TyKzJM5DmbY
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=TyKzJM5DmbY"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 17): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"xnFWWYfRdLw"}
+Identified movieid = xnFWWYfRdLw
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=xnFWWYfRdLw
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=xnFWWYfRdLw"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":0,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 0, type: 'video' } ] }
+0
+Found active player = 0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":0}}
+Identified movie = {"kind":"youtube#video","videoId":"p2jUmc6ky6g"}
+Identified movieid = p2jUmc6ky6g
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=p2jUmc6ky6g
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=p2jUmc6ky6g"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":0,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 0, type: 'video' } ] }
+0
+Found active player = 0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":0}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":0,"type":"audio"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 0, type: 'audio' } ] }
+0
+Found active player = 0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":0}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 18): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"p2jUmc6ky6g"}
+Identified movieid = p2jUmc6ky6g
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=p2jUmc6ky6g
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=p2jUmc6ky6g"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 19): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"9k88fTGijLM"}
+Identified movieid = 9k88fTGijLM
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=9k88fTGijLM
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=9k88fTGijLM"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 20): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"dSYoKPfkPRE"}
+Identified movieid = dSYoKPfkPRE
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=dSYoKPfkPRE
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=dSYoKPfkPRE"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":0,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 0, type: 'video' } ] }
+0
+Found active player = 0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":0}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Identified movie = {"kind":"youtube#video","videoId":"KUogZWhlyt0"}
+Identified movieid = KUogZWhlyt0
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=KUogZWhlyt0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=KUogZWhlyt0"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":0,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 0, type: 'video' } ] }
+0
+Found active player = 0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":0}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 21): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"v9BtXaiLVA0"}
+Identified movieid = v9BtXaiLVA0
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=v9BtXaiLVA0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=v9BtXaiLVA0"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 22): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"8Tq7dHWo_SU"}
+Identified movieid = 8Tq7dHWo_SU
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=8Tq7dHWo_SU
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=8Tq7dHWo_SU"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 23): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"xZiquXYiYq0"}
+Identified movieid = xZiquXYiYq0
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=xZiquXYiYq0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=xZiquXYiYq0"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":1}}
+Identified movie = {"kind":"youtube#video","videoId":"BPRswLXhMbw"}
+Identified movieid = BPRswLXhMbw
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=BPRswLXhMbw
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=BPRswLXhMbw"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 24): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"wEVGd0ljpO4"}
+Identified movieid = wEVGd0ljpO4
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=wEVGd0ljpO4
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=wEVGd0ljpO4"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":1}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":1}}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:9940) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 25): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"cU8Umg23ako"}
+Identified movieid = cU8Umg23ako
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=cU8Umg23ako
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=cU8Umg23ako"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":0,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 0, type: 'video' } ] }
+0
+Found active player = 0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":0}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Identified movie = {"kind":"youtube#video","videoId":"TRrL5j3MIvo"}
+Identified movieid = TRrL5j3MIvo
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=TRrL5j3MIvo
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=TRrL5j3MIvo"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Your app is listening on port 42291
+Request token = 19911104
+Authentication succeeded
+Setting volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":70}}
+Data received = {"id":1,"jsonrpc":"2.0","result":70}
+Request token = 19911104
+Authentication succeeded
+Setting volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":70}}
+Data received = {"id":1,"jsonrpc":"2.0","result":70}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:21399) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): TypeError: Cannot read property 'playerid' of undefined
+(node:21399) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+Identified movie = {"kind":"youtube#video","videoId":"9k88fTGijLM"}
+Identified movieid = 9k88fTGijLM
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=9k88fTGijLM
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=9k88fTGijLM"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Decrease volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.GetProperties","params":{"properties":["volume"]}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"volume":70}}
+{ id: 1, jsonrpc: '2.0', result: { volume: 70 } }
+Current volume: 70
+New volume : 60
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":60}}
+Data received = {"id":1,"jsonrpc":"2.0","result":60}
+Your app is listening on port 42291
+Request token = 19911104
+Authentication succeeded
+Setting volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":70}}
+Data received = {"id":1,"jsonrpc":"2.0","result":70}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:23098) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): TypeError: Cannot read property 'playerid' of undefined
+(node:23098) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+Identified movie = {"kind":"youtube#video","videoId":"BQ35OEQhjfc"}
+Identified movieid = BQ35OEQhjfc
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=BQ35OEQhjfc
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=BQ35OEQhjfc"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":1}}
+Identified movie = {"kind":"youtube#video","videoId":"BQ35OEQhjfc"}
+Identified movieid = BQ35OEQhjfc
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=BQ35OEQhjfc
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=BQ35OEQhjfc"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:23098) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 2): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"S_UKvTSad8w"}
+Identified movieid = S_UKvTSad8w
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=S_UKvTSad8w
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=S_UKvTSad8w"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":0,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 0, type: 'video' } ] }
+0
+Found active player = 0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":0}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:23098) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 3): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"BQ35OEQhjfc"}
+Identified movieid = BQ35OEQhjfc
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=BQ35OEQhjfc
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=BQ35OEQhjfc"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Setting volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":50}}
+Data received = {"id":1,"jsonrpc":"2.0","result":50}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:23098) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 4): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"gpNlSa7q_5g"}
+Identified movieid = gpNlSa7q_5g
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=gpNlSa7q_5g
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=gpNlSa7q_5g"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":0,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 0, type: 'video' } ] }
+0
+Found active player = 0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":0}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:23098) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 5): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"BQ35OEQhjfc"}
+Identified movieid = BQ35OEQhjfc
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=BQ35OEQhjfc
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=BQ35OEQhjfc"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:23098) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 6): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"DxVCuCx8NXA"}
+Identified movieid = DxVCuCx8NXA
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=DxVCuCx8NXA
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=DxVCuCx8NXA"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":0,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 0, type: 'video' } ] }
+0
+Found active player = 0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":0}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:23098) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 7): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"BQ35OEQhjfc"}
+Identified movieid = BQ35OEQhjfc
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=BQ35OEQhjfc
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=BQ35OEQhjfc"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Setting volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":60}}
+Data received = {"id":1,"jsonrpc":"2.0","result":60}
+Your app is listening on port 42291
+Authorize this app by visiting this url:  https://accounts.google.com/o/oauth2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.readonly&response_type=code&client_id=179623965368-s1uje3id3700a7ijtfh8e6f99qvalbjn.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob
+Enter the code from that page here: Stopping all players
+Searching youtube video based on criteria.
+Authorize this app by visiting this url:  https://accounts.google.com/o/oauth2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.readonly&response_type=code&client_id=179623965368-s1uje3id3700a7ijtfh8e6f99qvalbjn.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob
+Enter the code from that page here: Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+Stopping all players
+Searching youtube video based on criteria.
+Authorize this app by visiting this url:  https://accounts.google.com/o/oauth2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.readonly&response_type=code&client_id=179623965368-s1uje3id3700a7ijtfh8e6f99qvalbjn.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob
+Enter the code from that page here: Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+Stopping all players
+Searching youtube video based on criteria.
+Authorize this app by visiting this url:  https://accounts.google.com/o/oauth2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.readonly&response_type=code&client_id=179623965368-s1uje3id3700a7ijtfh8e6f99qvalbjn.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob
+Enter the code from that page here: Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+Your app is listening on port 42291
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:1367) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): TypeError: Cannot read property 'playerid' of undefined
+(node:1367) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+Identified movie = {"kind":"youtube#video","videoId":"DxVCuCx8NXA"}
+Identified movieid = DxVCuCx8NXA
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=DxVCuCx8NXA
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=DxVCuCx8NXA"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:1367) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 2): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"tayEofaRQIs"}
+Identified movieid = tayEofaRQIs
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=tayEofaRQIs
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=tayEofaRQIs"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:1367) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 3): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"tayEofaRQIs"}
+Identified movieid = tayEofaRQIs
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=tayEofaRQIs
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=tayEofaRQIs"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Increase volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.GetProperties","params":{"properties":["volume"]}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"volume":60}}
+{ id: 1, jsonrpc: '2.0', result: { volume: 60 } }
+Current volume: 60
+New volume : 70
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":70}}
+Data received = {"id":1,"jsonrpc":"2.0","result":70}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:1367) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 4): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"tayEofaRQIs"}
+Identified movieid = tayEofaRQIs
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=tayEofaRQIs
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=tayEofaRQIs"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:1367) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 5): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"SqFmAMRnC2E"}
+Identified movieid = SqFmAMRnC2E
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=SqFmAMRnC2E
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=SqFmAMRnC2E"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":0,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 0, type: 'video' } ] }
+0
+Found active player = 0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":0}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:1367) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 6): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"tayEofaRQIs"}
+Identified movieid = tayEofaRQIs
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=tayEofaRQIs
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=tayEofaRQIs"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:1367) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 7): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"tayEofaRQIs"}
+Identified movieid = tayEofaRQIs
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=tayEofaRQIs
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=tayEofaRQIs"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Setting volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":80}}
+Data received = {"id":1,"jsonrpc":"2.0","result":80}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":1}}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:1367) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 8): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"tayEofaRQIs"}
+Identified movieid = tayEofaRQIs
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=tayEofaRQIs
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=tayEofaRQIs"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":1}}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:1367) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 9): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"Nj8r3qmOoZ8"}
+Identified movieid = Nj8r3qmOoZ8
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=Nj8r3qmOoZ8
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=Nj8r3qmOoZ8"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":0,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 0, type: 'video' } ] }
+0
+Found active player = 0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":0}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:1367) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 10): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"T9qybpUuYAQ"}
+Identified movieid = T9qybpUuYAQ
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=T9qybpUuYAQ
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=T9qybpUuYAQ"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Decrease volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.GetProperties","params":{"properties":["volume"]}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"volume":73}}
+{ id: 1, jsonrpc: '2.0', result: { volume: 73 } }
+Current volume: 73
+New volume : 53
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":53}}
+Data received = {"id":1,"jsonrpc":"2.0","result":52}
+Request token = 19911104
+Authentication succeeded
+Decrease volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.GetProperties","params":{"properties":["volume"]}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"volume":52}}
+{ id: 1, jsonrpc: '2.0', result: { volume: 52 } }
+Current volume: 52
+New volume : 32
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":32}}
+Data received = {"id":1,"jsonrpc":"2.0","result":32}
+Request token = 19911104
+Authentication succeeded
+Increase volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.GetProperties","params":{"properties":["volume"]}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"volume":32}}
+{ id: 1, jsonrpc: '2.0', result: { volume: 32 } }
+Current volume: 32
+New volume : 42
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":42}}
+Data received = {"id":1,"jsonrpc":"2.0","result":42}
+Request token = 19911104
+Authentication succeeded
+Increase volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.GetProperties","params":{"properties":["volume"]}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"volume":42}}
+{ id: 1, jsonrpc: '2.0', result: { volume: 42 } }
+Current volume: 42
+New volume : 47
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":47}}
+Data received = {"id":1,"jsonrpc":"2.0","result":47}
+Request token = 19911104
+Authentication succeeded
+Decrease volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.GetProperties","params":{"properties":["volume"]}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"volume":70}}
+{ id: 1, jsonrpc: '2.0', result: { volume: 70 } }
+Current volume: 70
+New volume : 60
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":60}}
+Data received = {"id":1,"jsonrpc":"2.0","result":60}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":1}}
+Request token = 19911104
+Authentication succeeded
+Increase volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.GetProperties","params":{"properties":["volume"]}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"volume":85}}
+{ id: 1, jsonrpc: '2.0', result: { volume: 85 } }
+Current volume: 85
+New volume : 95
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":95}}
+Data received = {"id":1,"jsonrpc":"2.0","result":95}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":1}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":1}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Decrease volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.GetProperties","params":{"properties":["volume"]}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"volume":75}}
+{ id: 1, jsonrpc: '2.0', result: { volume: 75 } }
+Current volume: 75
+New volume : 55
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":55}}
+Data received = {"id":1,"jsonrpc":"2.0","result":55}
+Request token = 19911104
+Authentication succeeded
+Setting volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":50}}
+Data received = {"id":1,"jsonrpc":"2.0","result":50}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:1367) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 11): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"T9qybpUuYAQ"}
+Identified movieid = T9qybpUuYAQ
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=T9qybpUuYAQ
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=T9qybpUuYAQ"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Decrease volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.GetProperties","params":{"properties":["volume"]}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"volume":50}}
+{ id: 1, jsonrpc: '2.0', result: { volume: 50 } }
+Current volume: 50
+New volume : 30
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":30}}
+Data received = {"id":1,"jsonrpc":"2.0","result":30}
+Request token = 19911104
+Authentication succeeded
+Increase volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.GetProperties","params":{"properties":["volume"]}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"volume":30}}
+{ id: 1, jsonrpc: '2.0', result: { volume: 30 } }
+Current volume: 30
+New volume : 40
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":40}}
+Data received = {"id":1,"jsonrpc":"2.0","result":40}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:1367) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 12): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"d9aucS-Ptsc"}
+Identified movieid = d9aucS-Ptsc
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=d9aucS-Ptsc
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=d9aucS-Ptsc"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":0,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 0, type: 'video' } ] }
+0
+Found active player = 0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":0}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:1367) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 13): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"9k88fTGijLM"}
+Identified movieid = 9k88fTGijLM
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=9k88fTGijLM
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=9k88fTGijLM"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Increase volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.GetProperties","params":{"properties":["volume"]}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"volume":40}}
+{ id: 1, jsonrpc: '2.0', result: { volume: 40 } }
+Current volume: 40
+New volume : 50
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":50}}
+Data received = {"id":1,"jsonrpc":"2.0","result":50}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:1367) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 14): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"WcEdsHS1otc"}
+Identified movieid = WcEdsHS1otc
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=WcEdsHS1otc
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=WcEdsHS1otc"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":0,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 0, type: 'video' } ] }
+0
+Found active player = 0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":0}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:1367) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 15): TypeError: Cannot read property 'playerid' of undefined
+No movie found.
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:1367) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 16): TypeError: Cannot read property 'playerid' of undefined
+Identified movie = {"kind":"youtube#video","videoId":"tmPws7eXcVk"}
+Identified movieid = tmPws7eXcVk
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=tmPws7eXcVk
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=tmPws7eXcVk"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":0,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 0, type: 'video' } ] }
+0
+Found active player = 0
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":0}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Your app is listening on port 42291
+Authorize this app by visiting this url:  https://accounts.google.com/o/oauth2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.readonly&response_type=code&client_id=179623965368-s1uje3id3700a7ijtfh8e6f99qvalbjn.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob
+Enter the code from that page here: Stopping all players
+Searching youtube video based on criteria.
+Authorize this app by visiting this url:  https://accounts.google.com/o/oauth2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.readonly&response_type=code&client_id=179623965368-s1uje3id3700a7ijtfh8e6f99qvalbjn.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob
+Enter the code from that page here: Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+Stopping all players
+Searching youtube video based on criteria.
+Authorize this app by visiting this url:  https://accounts.google.com/o/oauth2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.readonly&response_type=code&client_id=179623965368-s1uje3id3700a7ijtfh8e6f99qvalbjn.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob
+Enter the code from that page here: Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":1}}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Setting volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":70}}
+Data received = {"id":1,"jsonrpc":"2.0","result":70}
+Request token = 19911104
+Authentication succeeded
+Setting volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":50}}
+Data received = {"id":1,"jsonrpc":"2.0","result":50}
+Request token = 19911104
+Authentication succeeded
+Setting volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":70}}
+Data received = {"id":1,"jsonrpc":"2.0","result":70}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":1}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Request token = 19911104
+Authentication succeeded
+Setting volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":80}}
+Data received = {"id":1,"jsonrpc":"2.0","result":80}
+Your app is listening on port 42291
+Authorize this app by visiting this url:  https://accounts.google.com/o/oauth2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.readonly&response_type=code&client_id=179623965368-s1uje3id3700a7ijtfh8e6f99qvalbjn.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob
+Enter the code from that page here: Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":1}}
+Request token = 19911104
+Authentication succeeded
+Setting volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":70}}
+Data received = {"id":1,"jsonrpc":"2.0","result":70}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Muting kodi request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetMute","params":{"mute":true}}
+Data received = {"id":1,"jsonrpc":"2.0","result":true}
+Request token = 19911104
+Authentication succeeded
+Muting kodi request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetMute","params":{"mute":true}}
+Data received = {"id":1,"jsonrpc":"2.0","result":true}
+Request token = 19911104
+Authentication succeeded
+Muting kodi request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetMute","params":{"mute":true}}
+Data received = {"id":1,"jsonrpc":"2.0","result":true}
+Request token = 19911104
+Authentication succeeded
+Muting kodi request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetMute","params":{"mute":true}}
+Data received = {"id":1,"jsonrpc":"2.0","result":true}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":1}}
+Request token = 19911104
+Authentication succeeded
+Setting volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":50}}
+Data received = {"id":1,"jsonrpc":"2.0","result":50}
+Stopping all players
+Searching youtube video based on criteria.
+Authorize this app by visiting this url:  https://accounts.google.com/o/oauth2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.readonly&response_type=code&client_id=179623965368-s1uje3id3700a7ijtfh8e6f99qvalbjn.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob
+Enter the code from that page here: Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+Your app is listening on port 42291
+Stopping all players
+Searching youtube video based on criteria.
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+(node:10219) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): TypeError: Cannot read property 'playerid' of undefined
+(node:10219) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+Identified movie = {"kind":"youtube#video","videoId":"9k88fTGijLM"}
+Identified movieid = 9k88fTGijLM
+Will attempt to open url = plugin://plugin.video.youtube/?action=play_video&videoid=9k88fTGijLM
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Open","params":{"item":{"file":"plugin://plugin.video.youtube/?action=play_video&videoid=9k88fTGijLM"}}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Muting kodi request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetMute","params":{"mute":true}}
+(node:10219) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 2): FetchError: request to http://192.168.1.10:8080/jsonrpc failed, reason: connect ECONNREFUSED 192.168.1.10:8080
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":1}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":1}}
+Request token = 19911104
+Authentication succeeded
+Setting volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":70}}
+Data received = {"id":1,"jsonrpc":"2.0","result":70}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":1}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Setting volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":80}}
+Data received = {"id":1,"jsonrpc":"2.0","result":80}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":1}}
+Your app is listening on port 42291
+Authorize this app by visiting this url:  https://accounts.google.com/o/oauth2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.readonly&response_type=code&client_id=179623965368-s1uje3id3700a7ijtfh8e6f99qvalbjn.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob
+Enter the code from that page here: Your app is listening on port 42291
+Authorize this app by visiting this url:  https://accounts.google.com/o/oauth2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.readonly&response_type=code&client_id=179623965368-s1uje3id3700a7ijtfh8e6f99qvalbjn.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob
+Enter the code from that page here: Your app is listening on port 42291
+Authorize this app by visiting this url:  https://accounts.google.com/o/oauth2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.readonly&response_type=code&client_id=179623965368-s1uje3id3700a7ijtfh8e6f99qvalbjn.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob
+Enter the code from that page here: Your app is listening on port 42291
+Authorize this app by visiting this url:  https://accounts.google.com/o/oauth2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.readonly&response_type=code&client_id=179623965368-s1uje3id3700a7ijtfh8e6f99qvalbjn.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob
+Enter the code from that page here: Your app is listening on port 42291
+Authorize this app by visiting this url:  https://accounts.google.com/o/oauth2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.readonly&response_type=code&client_id=179623965368-s1uje3id3700a7ijtfh8e6f99qvalbjn.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob
+Enter the code from that page here: Request token = 19911104
+Authentication succeeded
+Setting volume request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Application.SetVolume","params":{"volume":50}}
+Data received = {"id":1,"jsonrpc":"2.0","result":50}
+Stopping all players
+Searching youtube video based on criteria.
+Authorize this app by visiting this url:  https://accounts.google.com/o/oauth2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.readonly&response_type=code&client_id=179623965368-s1uje3id3700a7ijtfh8e6f99qvalbjn.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob
+Enter the code from that page here: Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[]}
+{ id: 1, jsonrpc: '2.0', result: [] }
+Your app is listening on port 42291
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::42291
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at Server.listen (net.js:1467:7)
+    at Function.listen (/home/osmc/GoogleHomeKodi/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/osmc/GoogleHomeKodi/server.js:570:20)
+    at Module._compile (module.js:569:30)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:503:32)
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::42291
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at Server.listen (net.js:1467:7)
+    at Function.listen (/home/osmc/GoogleHomeKodi/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/osmc/GoogleHomeKodi/server.js:570:20)
+    at Module._compile (module.js:569:30)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:503:32)
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":0}}
+Request token = 19911104
+Authentication succeeded
+Play/Pause request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.PlayPause","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":{"speed":1}}
+Request token = 19911104
+Authentication succeeded
+Stop request received
+Active players request received
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.GetActivePlayers"}
+Data received = {"id":1,"jsonrpc":"2.0","result":[{"playerid":1,"type":"video"}]}
+{ id: 1,
+  jsonrpc: '2.0',
+  result: [ { playerid: 1, type: 'video' } ] }
+1
+Found active player = 1
+Command sent = {"jsonrpc":"2.0","id":1,"method":"Player.Stop","params":{"playerid":1}}
+Data received = {"id":1,"jsonrpc":"2.0","result":"OK"}

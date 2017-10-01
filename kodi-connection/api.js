@@ -37,6 +37,7 @@ module.exports = function(fetch) {
       })
       .then(function(data) {
         if(callback) callback(data);
+	console.log('Data received = ' + JSON.stringify(data));
         return data;
       });
   };
